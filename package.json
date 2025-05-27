@@ -1,0 +1,8 @@
+{
+  "name": "ekochat-forked",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.15.0"
+  }
+}
